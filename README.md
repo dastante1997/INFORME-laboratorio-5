@@ -118,7 +118,7 @@ Evidentemente se muestra que tanto el circuito Equivalente de Thevenin y el circ
 
 6. VIDEO:
 
-
+https://youtu.be/bD7jxHQHKFA
 
 7. CONCLUSIONES
 
